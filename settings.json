@@ -1,0 +1,19 @@
+{
+    "best_error":34.7227411286,
+    "best_score":"0.027993372524254292",
+    "best_values":[
+        "32.02160895114305"
+    ],
+    "limit":50,
+    "minimize":true,
+    "num_employers":50,
+    "valueRanges":[
+        [
+            "float",
+            [
+                32.02052,
+                32.14307
+            ]
+        ]
+    ]
+}
